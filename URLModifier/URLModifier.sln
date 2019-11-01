@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URLModifier", "URLModifier.csproj", "{7545E586-05DD-4EE0-8034-273FDEA47CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation", "..\Permutation\Permutation.csproj", "{AE4CB2DF-2084-4A5A-800A-4339C5EEEA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7545E586-05DD-4EE0-8034-273FDEA47CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7545E586-05DD-4EE0-8034-273FDEA47CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7545E586-05DD-4EE0-8034-273FDEA47CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7545E586-05DD-4EE0-8034-273FDEA47CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4CB2DF-2084-4A5A-800A-4339C5EEEA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4CB2DF-2084-4A5A-800A-4339C5EEEA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4CB2DF-2084-4A5A-800A-4339C5EEEA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4CB2DF-2084-4A5A-800A-4339C5EEEA28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF3CF412-DFA2-4ED5-828F-10BBA85E6304}
+	EndGlobalSection
+EndGlobal
