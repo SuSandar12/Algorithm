@@ -1,0 +1,7 @@
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Linear Search\bin\Debug\Linear Search.exe.config
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Linear Search\bin\Debug\Linear Search.exe
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Linear Search\bin\Debug\Linear Search.pdb
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Linear Search\obj\Debug\Linear Search.csprojAssemblyReference.cache
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Linear Search\obj\Debug\Linear Search.csproj.CoreCompileInputs.cache
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Linear Search\obj\Debug\Linear Search.exe
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Linear Search\obj\Debug\Linear Search.pdb

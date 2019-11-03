@@ -1,0 +1,7 @@
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Bineary Search\bin\Debug\Bineary Search.exe.config
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Bineary Search\bin\Debug\Bineary Search.exe
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Bineary Search\bin\Debug\Bineary Search.pdb
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Bineary Search\obj\Debug\Bineary Search.csprojAssemblyReference.cache
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Bineary Search\obj\Debug\Bineary Search.csproj.CoreCompileInputs.cache
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Bineary Search\obj\Debug\Bineary Search.exe
+E:\02_Codes\DemoConsoleApp\CSharpRepo\Bineary Search\obj\Debug\Bineary Search.pdb
